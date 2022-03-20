@@ -1,2 +1,2 @@
 # nlp_models
-some used nlp models 
+some useful nlp models 
